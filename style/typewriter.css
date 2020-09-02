@@ -12,8 +12,7 @@
 
 /* Animation */
 .typewriter {
-    animation: animated-text 4s steps(60,end) 1s 1 normal both,
-    animated-cursor 600ms steps(60,end) infinite;
+    animation: animated-text 2s steps(60,end) 1s 1 normal both, animated-cursor 500ms steps(60,end) infinite;
 }
 
 /* text animation */
